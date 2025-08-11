@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar1035&show_icons=true&locale=en&layout=compact" alt="kumar1035" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar1035&" alt="kumar1035" />
- hii i am here for you
+ bs thoda sa aur
 
 
 <!--
