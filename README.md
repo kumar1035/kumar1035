@@ -29,7 +29,7 @@
 
 
 <!--
-**kumar1035/kumar1035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kumar1035/kumar1035** is a ✨ _special_ ✨ repository because its `README.md`  appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
