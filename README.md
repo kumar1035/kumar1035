@@ -31,7 +31,7 @@
 <!--
 **kumar1035/kumar1035** is a ✨ _special_ ✨ repository because its `README.md`  appears on your GitHub profile.
 
-Here are some ideas to get you started:lets
+Here are some ideas to get you started:lets build something great 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
