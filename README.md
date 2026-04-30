@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar1035" alt="kumar1035" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning and Data Structure and  Algorithm**
+- 🌱 I’m currently learning **Machine learning , deep learning and Data Structure and  Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumar1035](https://github.com/kumar1035)
 
