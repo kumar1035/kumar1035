@@ -92,5 +92,5 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kumar1035&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kumar1035&label=Profile+Views&color=0e75b6&style=flat&base=540" alt="Profile Views" />
 </p>
